@@ -1,4 +1,4 @@
-### Hi I'm Toast
+### Hi I'm Toast (She/Her)
 
 I like to make server applications and mess with APIs.
 
